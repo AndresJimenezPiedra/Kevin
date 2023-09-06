@@ -2,7 +2,7 @@
   Creado: Luis del Valle (ldelvalleh@programarfacil.com)
   https://programarfacil.com
 */
- 
+ //PRUEBA
 // Incluímos la librería para poder controlar el servo
 #include <Servo.h>
 // Declaramos la variable para controlar el servo
